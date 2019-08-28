@@ -1,0 +1,1234 @@
+fileFormatVersion: 2
+guid: 63342733679b7b64cb3be523d6e708e7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Injit2SemutFix_0
+    21300002: Injit2SemutFix_1
+    21300004: Injit2SemutFix_2
+    21300006: Injit2SemutFix_3
+    21300008: Injit2SemutFix_4
+    21300010: Injit2SemutFix_5
+    21300012: Injit2SemutFix_6
+    21300014: Injit2SemutFix_7
+    21300016: Injit2SemutFix_8
+    21300018: Injit2SemutFix_9
+    21300020: Injit2SemutFix_10
+    21300022: Injit2SemutFix_11
+    21300024: Injit2SemutFix_12
+    21300026: Injit2SemutFix_13
+    21300028: Injit2SemutFix_14
+    21300030: Injit2SemutFix_15
+    21300032: Injit2SemutFix_16
+    21300034: Injit2SemutFix_17
+    21300036: Injit2SemutFix_18
+    21300038: Injit2SemutFix_19
+    21300040: Injit2SemutFix_20
+    21300042: Injit2SemutFix_21
+    21300044: Injit2SemutFix_22
+    21300046: Injit2SemutFix_23
+    21300048: Injit2SemutFix_24
+    21300050: Injit2SemutFix_25
+    21300052: Injit2SemutFix_26
+    21300054: Injit2SemutFix_27
+    21300056: Injit2SemutFix_28
+    21300058: Injit2SemutFix_29
+    21300060: Injit2SemutFix_30
+    21300062: Injit2SemutFix_31
+    21300064: Injit2SemutFix_32
+    21300066: Injit2SemutFix_33
+    21300068: Injit2SemutFix_34
+    21300070: Injit2SemutFix_35
+    21300072: Injit2SemutFix_36
+    21300074: Injit2SemutFix_37
+    21300076: Injit2SemutFix_38
+    21300078: Injit2SemutFix_39
+    21300080: Injit2SemutFix_40
+    21300082: Injit2SemutFix_41
+    21300084: Injit2SemutFix_42
+    21300086: Injit2SemutFix_43
+    21300088: Injit2SemutFix_44
+    21300090: Injit2SemutFix_45
+    21300092: Injit2SemutFix_46
+    21300094: Injit2SemutFix_47
+    21300096: Injit2SemutFix_48
+    21300098: Injit2SemutFix_49
+    21300100: Injit2SemutFix_50
+    21300102: Injit2SemutFix_51
+    21300104: Injit2SemutFix_52
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Injit2SemutFix_0
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 12931
+        width: 1019
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab9b56e813cc314f999da24e8a5b285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_1
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 12931
+        width: 624
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ded502fadd274582f7349e0608eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_2
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 12964
+        width: 335
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cad7a6fe1ef454b8658a50b42bbc65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_3
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 12642
+        width: 704
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ad071353f6a4489fc2e6368cbba67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_4
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 12642
+        width: 467
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11babfcc6e1509b44ad0a3dbec96f4e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 12320
+        width: 763
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a313b4ef53bbd40a74ef9b67415e9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_6
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 12320
+        width: 684
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c53b300a0cc014e9670a5cceba88de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 11965
+        width: 848
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de221c436670646459652aacfdeed884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_8
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 11965
+        width: 992
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2eed3d9ebf1514b962c4dab6d2a380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_9
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 11998
+        width: 638
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d223881a87cc349a1bde5b79de7927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_10
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 11670
+        width: 579
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08336fd9b8f5ec947b079501abd89e00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_11
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 11643
+        width: 828
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be939c1c60a1f499474a1033ceb5c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_12
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 11354
+        width: 1012
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ec96b4b9dcdb4f8411fecd4ac5017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_13
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 11354
+        width: 670
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994e6f3f679ba54ba369332030b513b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_14
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 11032
+        width: 671
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21496cb63c37884d9dfb0c2557427bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_15
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 10993
+        width: 769
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa9019d6d99d94e820179ec9cdf0be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 10697
+        width: 1026
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d791f35d9e95ab841b0746f40158c98c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_17
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 10671
+        width: 1084
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de786d0a07e544a9579380389203da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_18
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 10382
+        width: 552
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a260b0f76a491034a872e4def1b691a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_19
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 10349
+        width: 631
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c50cc87f804f47b8352ee435cfaa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 10014
+        width: 874
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490f59c8bead634481cd4d192b90d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_21
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 10060
+        width: 742
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57e86cf16aff74ba7fe41c6b3d1358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 9705
+        width: 611
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ead96d5bfe1f4b9ea10489cd94616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_23
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 9705
+        width: 723
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20d681ce90146048835c08b34e2457e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_24
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 9738
+        width: 664
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de14bf75cad3ac142b8552128c3ea981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_25
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 9383
+        width: 861
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97dd3ca306ec6d45a52e42db41e6ac1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_26
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 9061
+        width: 677
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d554ef26354bfc44a8c89dccfe2fb9ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_27
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 9094
+        width: 835
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee468bbe953e1ce44b95d7032077a548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_28
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 8772
+        width: 454
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaf9f9bdbcffee4fada40372b8ac65c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_29
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 8739
+        width: 683
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c191960d9ddc484fbccb050bda94216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_30
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 8437
+        width: 716
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789220093c33fda48aac6e306cb8d231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_31
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 8089
+        width: 519
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5983a6b372f65d443afd9844847ff84f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_32
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 7800
+        width: 750
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c35d84e6ca8f2c4f86aad4b05e38b9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_33
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 7767
+        width: 848
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa5cd231f030d84b89512e3802c8bee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_34
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 7478
+        width: 710
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b03b4982c2d4bb408297de6ab324090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_35
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 7445
+        width: 512
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711705a317d41e14ab2c5d9c9aacc7fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_36
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 7123
+        width: 874
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974bea3cc4163741a7a5b6c5292a94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_37
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 7123
+        width: 729
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d3967dcaca8146bdfc8cea6e29e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_38
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 6834
+        width: 493
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63434c2ab50eb04fb9cf1ff7240714d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_39
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 6834
+        width: 617
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126db2dfd11ac74c923cb0eb40303ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_40
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 6505
+        width: 927
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb363d31c782154882801e2384cf874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_41
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 6472
+        width: 880
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affe762c280da034a9998311a659ec64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_42
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 6150
+        width: 887
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f54c73674f24242b57efe90aef2f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_43
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 6183
+        width: 874
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c836104eb4351b44a37cc8f90d39186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_44
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 5828
+        width: 571
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72988ba562b88294dae9a799a34ad24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5539
+        width: 756
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd9335a1bb4584d9d4fb780deca6b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_46
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 5539
+        width: 855
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da84525894ad4ed47898a5ab137efbf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_47
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 5493
+        width: 743
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123be18e661fed2429c05c09e588ddec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_48
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 5184
+        width: 874
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1bb719bf0745543afa636790208c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_49
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 5178
+        width: 1091
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7104d001de4d93146a593fedaf518113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_50
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 4856
+        width: 1137
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55cfed82471d3241a8266e87ab0f420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_51
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 4567
+        width: 440
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9e4205ab837764585b19acf00549ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Injit2SemutFix_52
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 4205
+        width: 696
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8527161be4bf234ba1870e14f06dc7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 211c2e5dca4399b4788be9003647210f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
